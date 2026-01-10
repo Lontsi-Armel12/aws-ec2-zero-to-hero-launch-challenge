@@ -23,7 +23,7 @@ Create and run your first virtual computer in AWS.
    - **Name:** `zth-keypair`
    - **Type:** RSA
    - **Format:** Check `.pem`
-   - **DOWNLOAD and save it in a SAFE location**  
+   - **DOWNLOAD and save it to this folder**  
      <video width="1911" height="934" alt="image(3)" src="https://github.com/user-attachments/assets/9ecb2e76-caed-4fcf-ad40-d4f1f6954c2e" />
 
 
