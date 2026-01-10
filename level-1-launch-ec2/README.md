@@ -1,7 +1,3 @@
-Certainly! Here’s your guide formatted in Markdown for **LEVEL 1: Launch Your First EC2 Instance**:
-
----
-
 # LEVEL 1: Launch Your First EC2 Instance
 
 **Objective:**  
