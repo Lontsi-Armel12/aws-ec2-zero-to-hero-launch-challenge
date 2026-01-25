@@ -1,0 +1,4 @@
+Instance ID: i-06377953dd22f3dc2
+Public IPv4: 44.215.110.52
+Availability Zone: us-east-1x
+Key Pair Name: zth-keypair
